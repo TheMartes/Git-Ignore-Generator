@@ -1,0 +1,10 @@
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\bin\Debug\Git Ignore Generator.exe.config
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\bin\Debug\Git Ignore Generator.exe
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\bin\Debug\Git Ignore Generator.pdb
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git Ignore Generator.csprojResolveAssemblyReference.cache
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git_Ignore_Generator.Form1.resources
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git_Ignore_Generator.Properties.Resources.resources
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git Ignore Generator.csproj.GenerateResource.Cache
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git Ignore Generator.csproj.CoreCompileInputs.cache
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git Ignore Generator.exe
+D:\Code\Git-Ignore-Generator\Git Ignore Generator\Git Ignore Generator\obj\Debug\Git Ignore Generator.pdb
